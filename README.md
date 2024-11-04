@@ -22,5 +22,5 @@ pip install matplotlib
 Python 3.7+
 A webcam for real-time pose estimation
 
-#Notes
+# Notes
 This project demonstrates the basics of pose estimation using machine learning models for joint detection.   It can be extended with more complex movement analysis or adapted for other applications involving human motion tracking.  
