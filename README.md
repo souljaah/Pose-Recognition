@@ -11,10 +11,10 @@ Features:
 # Installation
 To run this app, you'll need to install the following Python libraries. Open a command prompt and enter each of these commands:
 
-\npip install opencv-python
-\npip install mediapipe
-\npip install numpy
-\npip install matplotlib
+pip install opencv-python  
+pip install mediapipe  
+pip install numpy  
+pip install matplotlib  
 
 #Requirements
 Python 3.7+
